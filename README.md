@@ -1,5 +1,5 @@
 # 🔮 Churn Predictor: Decoding Customer Behavior in Telecom
-# 🔮 ChurnMaster.AI
+### 🔮 ChurnMaster.AI
 
 ## Detailed Project Overview
 
