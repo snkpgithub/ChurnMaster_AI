@@ -64,13 +64,31 @@ The project uses a telecom customer dataset with the following key features:
 | Neural Network | 80% | 0.84 (non-churn), 0.66 (churn) | 0.90 (non-churn), 0.52 (churn) | 0.87 (non-churn), 0.58 (churn) |
 | [Other Models] | [Their respective performances] |
 
+Neural Network
+Accuracy: 81.41%
+Precision (Churn): 0.68
+Recall (Churn): 0.55
+F1-Score (Churn): 0.61
+XGBoost
+Accuracy: 78.50%
+Precision (Churn): 0.62
+Recall (Churn): 0.47
+F1-Score (Churn): 0.54
+LightGBM
+Accuracy: 80.13%
+Precision (Churn): 0.66
+Recall (Churn): 0.52
+F1-Score (Churn): 0.58
+Random Forest
+Accuracy: 78.85%
+Precision (Churn): 0.64
+Recall (Churn): 0.45
+F1-Score (Churn): 0.53
+
 ## 📁 Repository Contents
 
-- `Churn_Predictor.ipynb`: Main Jupyter notebook containing all analysis and models
+- `ChurnMaster_AI.ipynb`: Main Jupyter notebook containing all analysis and models
 - `README.md`: This file, providing project overview and instructions
 - `requirements.txt`: List of required Python packages
-- [Any other files in your repository]
 
-## 🛠️ How to Use This Project
 
-1. **Clone the Repository**:
