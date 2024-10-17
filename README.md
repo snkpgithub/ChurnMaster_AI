@@ -92,3 +92,53 @@ F1-Score (Churn): 0.53
 - `requirements.txt`: List of required Python packages
 
 
+## 🛠️ How to Use This Project
+
+1. **Clone the Repository**:
+git clone https://github.com/snkpgithub/ChurnMaster_AI.git
+cd churn-predictor
+2. **Set Up the Environment**:
+- Ensure you have Python 3.7+ installed
+- Install required packages:
+  ```
+  pip install -r requirements.txt
+  ```
+
+3. **Open the Jupyter Notebook**:
+- Launch Jupyter Notebook:
+  ```
+  jupyter notebook
+  ```
+- Open `Churn_Predictor.ipynb` in the Jupyter interface
+
+4. **Run the Notebook**:
+- You can run all cells sequentially or explore specific sections
+
+5. **Explore and Modify**:
+- Feel free to modify parameters, try different models, or add your own analysis
+
+## 🔮 Future Enhancements
+
+- Implement more sophisticated feature engineering techniques
+- Explore advanced deep learning architectures (e.g., LSTM for sequential data)
+- Develop a web application for real-time churn prediction
+- Incorporate additional external data sources for more comprehensive analysis
+
+## 👤 About the Author
+
+**Shashank Pandey**
+- 🎓 Graduate Student at University at Buffalo
+- 📧 Email: pandey22@buffalo.edu
+- 🔗 LinkedIn: [Your LinkedIn Profile]
+- 🐦 Twitter: [@YourTwitterHandle]
+
+## 📜 License
+
+
+
+## 🤝 Acknowledgments
+
+
+---
+
+Feel free to star ⭐ this repository if you find it helpful! For any questions or suggestions, please open an issue or contact me directly.
